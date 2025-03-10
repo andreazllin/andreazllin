@@ -2,8 +2,7 @@
   Welcome to my profile 👋
 </h1>
 
-- 🌱 Hi, my name is Andrea, I'm 20!
-- 💻 I'm currently working as a developer @soluzionifutura
+- 🌱 Hi, my name is Andrea, I'm 22!
 - 🔷 I usually work with TypeScript
 - ✨ Some hobbies of mine are:
   - ⌨️ Custom Keyboards
